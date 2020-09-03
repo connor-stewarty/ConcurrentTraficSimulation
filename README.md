@@ -19,6 +19,8 @@ Throughout the Concurrency course, you have been developing a traffic simulation
   * Linux: gcc / g++ is installed by default on most Linux distros
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
+* MobaXterm 
+  * export DISPLAY=:0
 
 ## Basic Build Instructions
 
